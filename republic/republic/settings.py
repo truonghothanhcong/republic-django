@@ -67,7 +67,6 @@ TEMPLATES = [
     },
 ]
 
-
 WSGI_APPLICATION = 'republic.wsgi.application'
 
 
